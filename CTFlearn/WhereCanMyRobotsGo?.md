@@ -21,7 +21,7 @@ Here we will find its written :<br>
                  
 We got disallow and theres a .html site on this.<br>
 
-So we can now go to : CTFlearn.com/70r3hnanldfspufdsoifnlds.html and we will find the flag as :   **CTFlearn{r0b0ts_4r3_th3_futur3}**.<br><br>
+So we can now go to : ctflearn.com/70r3hnanldfspufdsoifnlds.html and we will find the flag as :   **CTFlearn{r0b0ts_4r3_th3_futur3}**.<br><br>
 
 So by this way we can solve this problem, quite an easy one though you must know robots.txt can help you getsolution for many problems in a CTF.<br>
 
