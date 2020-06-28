@@ -16,8 +16,8 @@ It also tells web robots which pages not to crawl. Let's say a search engine is 
 So for CTFlearn we can go to its robots.txt by : https://ctflearn.com/robots.txt.<br>
 Here we will find its written :<br>
 
-                 **User-agent: *<br>
-                 Disallow: /70r3hnanldfspufdsoifnlds.html<br>**
+                 User-agent: *
+                 Disallow: /70r3hnanldfspufdsoifnlds.html
                  
 We got disallow and theres a .html site on this.<br>
 
