@@ -11,7 +11,9 @@ For this, we can use any online XOR decoder, I prefer using : **https://www.dcod
 
 By entering the message, and decoding it (Dont forget to select BRUTEFORCE/TEST ALL KEYS FROM 1 TO 8 BITS (SINGLE BYTE) option), we get all possible solutions.<br>
 
-![image](https://user-images.githubusercontent.com/65415517/86165075-6d03a080-bb30-11ea-84f0-3dcbf889e504.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65415517/86165075-6d03a080-bb30-11ea-84f0-3dcbf889e504.png">
+</p>
 <br>
 
 
