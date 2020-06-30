@@ -29,7 +29,7 @@ By this, we induce a query into the database which inturn is put with a conditio
 You can learn about SQL injection on : **https://www.w3schools.com/sql/sql_injection.asp**<br><br>
 Here, it is written that we can get usernames from a database on entering a condition.
 
-So , here we enter a condition :   **' OR '1' = '1**<br>
+So , here we enter a condition :   **'OR '1' = '1**<br>
 
 
 ![image](https://user-images.githubusercontent.com/65415517/86119489-31e17d00-baf0-11ea-9110-f7c694ce8cf2.png)
