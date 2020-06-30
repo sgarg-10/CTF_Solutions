@@ -11,6 +11,10 @@ For this, we can use any online XOR decoder, I prefer using : **https://www.dcod
 
 By entering the message, and decoding it (Dont forget to select BRUTEFORCE/TEST ALL KEYS FROM 1 TO 8 BITS (SINGLE BYTE) option), we get all possible solutions.<br>
 
+![image](https://user-images.githubusercontent.com/65415517/86165075-6d03a080-bb30-11ea-84f0-3dcbf889e504.png)
+<br>
+
+
 One of these is what we are looking for: FLAG[Y�U�hAVE�BRUTEFORCE�xor].<br><br>
 Though, this is not the final solution as it is not in the official format of a flag.We need to change a little bit inorder to submit it.<br><br>
 
