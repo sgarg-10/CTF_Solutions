@@ -13,7 +13,7 @@ So, here we can upload the image downloaded and when we click scan, we get what 
 
 So , now we can see we have got an URL in the result and a link to it.<br>
 Fortunately, when we open that link, we are redirected to a site contianing **flag.txt**.<br>
-And yes, when we open this file, we get our flag as CTF{2_QR_4_U}.
+And yes, when we open this text file, we get our flag as CTF{2_QR_4_U}.
 
 **FLAG: CTF{2_QR_4_U}**
 
