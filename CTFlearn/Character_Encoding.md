@@ -10,8 +10,8 @@ So, we now know we have ASCII characters and we just need to convert it to plain
 For this, we can use any ASCII decoder online, I prefer using : https://www.dcode.fr/ascii-code which will easily convert ASCII chars into different encoding techniques like HEX, OCT, DEC etc..<br>
 
 We can copy paste the string given and can get text plain.<br><br>
-
-![image](https://user-images.githubusercontent.com/65415517/86400586-82aace80-bcc6-11ea-88a6-d22b01104029.png)
+<p align="center">
+<img src=https://user-images.githubusercontent.com/65415517/86400586-82aace80-bcc6-11ea-88a6-d22b01104029.png></p>
 <br><br>
 
 
