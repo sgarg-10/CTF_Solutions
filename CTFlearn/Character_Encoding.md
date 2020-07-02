@@ -9,7 +9,10 @@ By reading the challenge, we can know they are talking about ASCII which is abbr
 So, we now know we have ASCII characters and we just need to convert it to plain text to get our flag.<br><br>
 For this, we can use any ASCII decoder online, I prefer using : https://www.dcode.fr/ascii-code which will easily convert ASCII chars into different encoding techniques like HEX, OCT, DEC etc..<br>
 
-We can copy paste the string given and can get text plain.<br>
+We can copy paste the string given and can get text plain.<br><br>
+
+![image](https://user-images.githubusercontent.com/65415517/86400586-82aace80-bcc6-11ea-88a6-d22b01104029.png)
+<br><br>
 
 
 It will give decryption with HEX, OCT , BINARY etc., but we can easily see, our flag is in HEX department, so it was an ASCII to HEX conversion.<br><br>
