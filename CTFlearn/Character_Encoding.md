@@ -7,6 +7,14 @@ Unfortunately, I've made communication a little bit more difficult. Can you figu
 So, here we have an easy challenge where we are given a string of mixed number and characters<br>
 By reading the challenge, we can know they are talking about ASCII which is abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication.<br>
 So, we now know we have ASCII characters and we just need to convert it to plain text to get our flag.<br><br>
-For this, we can use any ASCII decoder online, I prefer using : http://www.unit-conversion.info/texttools/ascii/ which will easily convert ASCII chars into text.<br>
+For this, we can use any ASCII decoder online, I prefer using : https://www.dcode.fr/ascii-code which will easily convert ASCII chars into different encoding techniques like HEX, OCT, DEC etc..<br>
+
+We can copy paste the string given and can get text plain.<br>
+
+
+It will give decryption with HEX, OCT , BINARY etc., but we can easily see, our flag is in HEX department, so it was an ASCII to HEX conversion.<br><br>
+
+**FLAG : ABCTF{45C11_15_U53FUL}**
+
 
 
